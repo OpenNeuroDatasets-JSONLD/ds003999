@@ -1,3 +1,4 @@
+* annex.largefiles=largerthan=1mb
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
 *.bval annex.largefiles=nothing
