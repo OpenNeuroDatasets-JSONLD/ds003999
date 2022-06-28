@@ -1,0 +1,21 @@
+{
+    "descriptions": [
+        {
+        "dataType": "func",
+        "modalityLabel": "bold",
+        "customLabels": "task-rest",
+        "criteria": {
+            "SeriesDescription": "*Rest*"
+            }
+        },
+        {
+        "dataType": "anat",
+        "modalityLabel": "T1w",
+        "EchoTime": 0.00226,
+        "criteria": {
+            "SeriesDescription": "*t1*"
+            },
+        "intendedFor": 0
+        }
+    ]
+}
