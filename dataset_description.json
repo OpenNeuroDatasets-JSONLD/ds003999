@@ -2,13 +2,13 @@
     "Name": "Pre-Post rehabilitation fMRI data of post-stroke patients.",
     "BIDSVersion": "1.2.1",
     "datasetType": "raw",
-    "License": "СС0",
+    "License": "CC0",
     "Authors": [
         "Daminov V. (MD, PhD)",
-       "Novak E. (MD, MSc)", 
-       "Slepnyova N. (MD)",
-       "Mikhailov D. (MSc)",
-       "Karpulevich E. (MSc)"
+        "Novak E. (MD, MSc)",
+        "Slepnyova N. (MD)",
+        "Mikhailov D. (MSc)",
+        "Karpulevich E. (MSc)"
     ],
     "Acknowledgments": "",
     "HowToAcknowledge": "",
@@ -21,5 +21,5 @@
     "ReferencesAndLinks": [
         ""
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds003999.v1.0.0"
 }
