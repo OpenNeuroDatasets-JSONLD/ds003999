@@ -1,5 +1,5 @@
-You should replace the content of this file and describe your dataset.
-
+This dataset contains several subjects suffered a stroke and underwent a course of 
+    comprehensive rehabilitation in National Medical and Surgical Centre n.a. N.I. Pirogov Moscow, Russia. 
 ---
 
 BIDS Specification: https://bids-specification.readthedocs.io/en/stable/
