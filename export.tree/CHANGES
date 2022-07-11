@@ -1,0 +1,8 @@
+1.0.2 2022-07-06
+  - Just like version 1.0.1, repair other dummed and corrupted subjects (sub-15 and sub-18) which were lost during initial uploading
+1.0.1 2022-07-01
+  - Repair sub-05
+Revision history for your dataset
+
+1.0.0 2022-06-29
+  - Added new data and descriptions
