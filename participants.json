@@ -126,5 +126,15 @@
             "P": "Area was partially injured by the stroke",
             "N": "Area wasn't injured by the stroke"
         }
+    },
+    "participant_id": {
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:ParticipantID",
+                "Label": ""
+            },
+            "Identifies": "participant"
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
     }
 }
